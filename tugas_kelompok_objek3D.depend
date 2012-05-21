@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1337614798 source:d:\documents and settings\opengl\tugas kelompok objek 3d\tugas_kelompok_objek3d\main.cpp
+	<Windows.h>
+	<iostream>
+	<gl\GL.h>
+	<gl\GLU.h>
+	<gl\glut.h>
+	<math.h>
+
