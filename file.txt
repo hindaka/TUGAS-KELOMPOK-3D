@@ -1,6 +1,7 @@
 Tugas Kelompok IF-08
 
-Membuat Objek 3D Sate
+bentuk 3D Sate dengan menggunakan GlutSolidCube & GlutSolidSphere
+
 Hindaka - 10108392
 Rio Yudha P - 10108395
 Feisel A - 10108408
